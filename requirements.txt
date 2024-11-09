@@ -1,0 +1,9 @@
+bcrypt==3.2.0
+fastapi==0.115.2
+SQLAlchemy==2.0.16
+uvicorn==0.22.0
+alembic==1.11.1
+python-jose==3.3.0  # For handling JWTs
+passlib==1.7.4  # Optionally, for password hashing
+psycopg2==2.9.9
+psycopg2-binary==2.9.10
